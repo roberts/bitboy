@@ -1254,7 +1254,7 @@ contract bitboy is ERC20, Ownable {
  
         previousFee = sellTotalFees;
  
-        marketingWallet = address(0xCcff2853D67C92b6511217b9224558046818D677); // Marketing Funds
+        marketingWallet = address(0x6dcEA6d55e7369d7424B59503cBE45e2E00114fC); // Marketing Funds
         developmentWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // DrewRoberts.eth
         communityFundWallet = address(0xD65746AdED5Ec72899c67752f079Daf020D9c20C); // Community Funds
  
